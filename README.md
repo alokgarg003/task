@@ -1,20 +1,3 @@
-#task1 Shopping Cart Program
-
-This program simulates a shopping cart with discount rules, fees, and shipping calculations.
-
-## How to Use
-
-1. Run the program using Python:
-```bash
-python shopping_cart.py
-
-
-2 Clone the Repository:
-   ```bash
-   git clone https://github.com/alokgarg03/main.php.git
-
-   cd main.php
-
 
 ## Task 2: Answers
 
@@ -42,6 +25,23 @@ E-commerce Platform: Lead developer in building a scalable e-commerce platform, 
 Healthcare Management System: Collaborating as a full-stack developer to create a comprehensive healthcare management system, focusing on user-friendly interfaces and secure data management.
 Personal Finance Tracker: Solely responsible for developing a personal finance tracker application, emphasizing data visualization and seamless integration with financial APIs.
 
+#task1 Shopping Cart Program
 
+This program simulates a shopping cart with discount rules, fees, and shipping calculations.
+
+
+
+## How to Use
+
+1. Run the program using Python:
+```bash
+python shopping_cart.py
+
+
+2 Clone the Repository:
+   ```bash
+   git clone https://github.com/alokgarg03/main.php.git
+
+   cd main.php
 
 
