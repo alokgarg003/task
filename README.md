@@ -14,8 +14,8 @@ python shopping_cart.py
    git clone https://github.com/alokgarg03/main.php.git
 
    cd main.php
-#Task 2: Answers
-Task 2: Answers
+##Task 2: Answers
+
 Why do you like to join as a Software developer?
 
 As a software developer, I am driven by the opportunity to create innovative solutions, solve real-world problems, and continuously learn and adapt in a dynamic field. The ability to contribute to the development of software applications that impact users positively is a fulfilling aspect of being a software developer.
